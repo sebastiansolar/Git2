@@ -5,3 +5,9 @@ git add XXXX - Añade un cambio del directorio de trabajo en el area de preparac
 git config --global user.email "correo"
 git config --global user.name "nombre"
 
+
+git commit -am "mensaje"  - permite guardar los cambios 
+git log - Ver Información sobre los commits
+
+
+
