@@ -1,0 +1,7 @@
+git init - Crear un nuevo repositorio de Git
+git status - ver el estado del directorio de trabajo
+git add XXXX - Añade un cambio del directorio de trabajo en el area de preparación
+
+git config --global user.email "correo"
+git config --global user.name "nombre"
+
