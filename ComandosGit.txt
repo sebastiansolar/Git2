@@ -10,7 +10,7 @@ git commit -am "mensaje"  - permite guardar los cambios
 git log - Ver Información sobre los commits
 
 
-git checkout -- "nombre archivo"   - Me devuelve al ultimo cambio y deshace todos los cambios
+git checkout -- "nombre archivo"   - Me devuelve al ultimo cambio y deshace todos los cambios de mi local
 
 git diff "nombre fichero"     - Nos devuelve el contenido cambiado
 
