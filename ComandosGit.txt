@@ -15,3 +15,10 @@ git checkout -- "nombre archivo"   - Me devuelve al ultimo cambio y deshace todo
 git diff "nombre fichero"     - Nos devuelve el contenido cambiado
 
 
+git remote add origin https://etc    - Conectar repositorio local a repo remoto
+git remote -v                        - Listar conexiones
+git push -u origin master            - Enviar cambios a repo remoto
+git clone https://                   - Crear copia local del repo
+
+sobre
+
